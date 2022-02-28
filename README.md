@@ -4,7 +4,7 @@
   <h1 align="center">Olá!! Eu sou o <a href="https://www.linkedin.com/in/jheferson-warley/"><i>Jheferson Warley</i></a> 😉</h1>
 <div align="center">
   <a href="https://github.com/jheferson-warley">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheferson-warleyy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheferson-warley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheferson-warley&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
