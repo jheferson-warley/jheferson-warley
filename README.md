@@ -1,16 +1,15 @@
 
 <div>
 
-  <h1 align="center">Olá!! Eu sou o <a href="https://www.linkedin.com/in/jheferson-warley/"><i>Jheferson Warley</i></a> 😉</h1>
+  <h1 align="center">Olá!! Eu sou o <a href="https://www.linkedin.com/in/jheferson-warley/" target="_blank"><i>Jheferson Warley</i></a> 😉</h1>
 <div align="center">
-  <a href="https://github.com/jheferson-warley">
+  <a href="https://github.com/jheferson-warley" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jheferson-warley&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=45,0d1117,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheferson-warley&layout=compact&langs_count=7&theme=midnight-purple&bg_color=45,0d1117,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
 </div>
 
 <div align="center" valign="top"><br>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img align="center" alt="Jheferson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
