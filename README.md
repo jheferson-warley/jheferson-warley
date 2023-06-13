@@ -9,14 +9,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img width="50" height="40" align="center"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <br /><br />
-  <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <a href="https://skillicons.dev"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs"></img>
+  </a>
 </div><br>
  
 <div align="center">
