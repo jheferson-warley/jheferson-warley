@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Jheferson Warley}!
+##  Olá, meu nome é {Jheferson Warley}!
 
 Minhas principais stack são PHP, Python, html, css, JavaScript, SQL.
 
@@ -8,7 +8,7 @@ Minhas principais stack são PHP, Python, html, css, JavaScript, SQL.
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/jheferson-warley).
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jhefersonwarley@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/jheferson-warley)
+[![GitHub](https://img.shields.io/github/followers/jheferson-warley?label=follow&style=social)](https://github.com/jheferson-warley)
 
 ---
 
