@@ -1,4 +1,4 @@
-##  Olá, meu nome é {Jheferson Warley}!
+##  Olá, meu nome é Jheferson Warley!
 
 Minhas principais stack são PHP, Python, html, css, JavaScript, SQL.
 
