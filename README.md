@@ -1,23 +1,27 @@
+## 💜 Olá, meu nome é {Jheferson Warley}!
 
-<div>
+Faça uma breve apresentação sobre você e a sua stack.
 
-  <h1 align="center">Olá!! Eu sou o <a href="https://www.linkedin.com/in/jheferson-warley/" target="_blank"><i>Jheferson Warley</i></a> 😉</h1>
-<div align="center">
-  <a href="https://github.com/jheferson-warley" target="_blank">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jheferson-warley&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=45,0d1117,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheferson-warley&layout=compact&langs_count=7&theme=midnight-purple&bg_color=45,0d1117,24252D&hide_border=true&title_color=e3e1e3&text_color=ffffff&border_radius=10&icon_color=DA18A3&card_width=350"/>
-</div>
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-<br>
- 
-<div align="center">
-  <a href="https://www.instagram.com/jheferson_warley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jheferson-warley/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jhefersonwarley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
-<div align="center">
-  
+---
 
-  
-</div>
+## 🚀 Minhas Skills
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jheferson-warley&show_icons=true)
