@@ -1,6 +1,6 @@
 ##  Olá, meu nome é Jheferson Warley!
 
-Minhas principais stack são PHP, Python, html, css, JavaScript, SQL.
+Minhas principais stack são PHP, Python, HTML, CSS, JavaScript, SQL.
 
 🔭 Atualmente estou em desenvolvimento do meu portfólio;
 
