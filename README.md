@@ -23,7 +23,7 @@ Atualmente, busco aprimorar minhas habilidades em análise de dados e BI, trabal
 📬 Vamos conectar?
 
 💼 LinkedIn [![Linkedin](https://img.shields.io/badge/jhefersonwarley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jheferson-warley)](https://www.linkedin.com/in/jheferson-warley)
-📧 jGmail [![Gmail Badge](https://img.shields.io/badge/-jhefersonwarley@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhefersonwarley@gmail.com)](mailto:jhefersonwarley@gmail.com)
+📧 Gmail [![Gmail Badge](https://img.shields.io/badge/-jhefersonwarley@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhefersonwarley@gmail.com)](mailto:jhefersonwarley@gmail.com)
           [![GitHub](https://img.shields.io/github/followers/jheferson-warley?label=follow&style=social)](https://github.com/jheferson-warley)
 
 ---
